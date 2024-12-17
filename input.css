@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply p-0 m-0 box-border;
+}
+
+::-webkit-scrollbar {
+  @apply hidden;
+}
+
+body {
+  @apply font-Roboto overflow-x-hidden;
+}
+
+.nav-link {
+  @apply font-medium text-white lg:text-gray-400 duration-300;
+}
+.nav-link:hover {
+  @apply text-black lg:text-[#0594FF];
+}
+.white {
+  @apply text-white;
+}
+
+.number{
+  @apply mb-4
+}
+
+#btn:hover {
+  @apply md:bg-transparent shadow-none;
+}
+
+footer li {
+  @apply cursor-pointer font-normal duration-300 md:w-fit;
+}
+
+footer li:hover {
+  @apply translate-x-2 text-[#0594FF] font-medium;
+}
