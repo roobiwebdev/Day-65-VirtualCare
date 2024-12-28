@@ -16,10 +16,8 @@ It's been an exciting project and the final result looks fantastic check it out 
 
 
 
-![image](https://github.com/user-attachments/assets/4ea0cc89-6bd4-4d0b-9463-eec8707c96b4)
+![Doctors_page](https://github.com/user-attachments/assets/6dd005c4-bae7-4244-9ed6-b333cf3ca6b6)
 
 
-Let's keep pushing forward ⚡️
 
 
-#projects@DevNerd0
